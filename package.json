@@ -1,0 +1,19 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "test package for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Faisal'",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalaq/npmPractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faisalaq/npmPractice/issues"
+  },
+  "homepage": "https://github.com/faisalaq/npmPractice#readme"
+}
